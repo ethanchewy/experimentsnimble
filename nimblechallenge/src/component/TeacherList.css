@@ -1,0 +1,6 @@
+.TeacherList {
+    display:flex;
+}
+.TeacherList tr{
+    flex-direction: column;
+}
